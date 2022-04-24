@@ -1,2 +1,2 @@
-#Wallpaper
+# Wallpaper
 Simple Wallpaper Application
